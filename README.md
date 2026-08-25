@@ -1,4 +1,4 @@
-<img src="README_visuals/Image1.png">
+<img src="README_visuals/ImageA.png">
 
 > **Note:** Parts of this documentation were assisted by AI to help ensure correctness.
 
@@ -27,7 +27,7 @@ This activity was done on Windows. To run this project, you will need the follow
 
 Here is how the files are organized within this repository:
 
-<img src="README_visuals/Image2.png">
+<img src="README_visuals/ImageB.png">
 
 ## How to Run the Activity (for Windows Users)
 
